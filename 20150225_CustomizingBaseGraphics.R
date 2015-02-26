@@ -1,7 +1,7 @@
 ## February 2015 R Meetup
 ## 2015-02-25
 
-student <- read.csv('r_graphics_studentdata.csv', stringsAsFactors=FALSE)
+student <- read.csv('https://github.com/nhermez/ClevelandR/blob/master/20150225_StudentData.csv', stringsAsFactors=FALSE)
 head(student)
 summary(student)
 
